@@ -1,0 +1,22 @@
+body {
+    font-family: verdana;
+}
+
+.select {
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+.dados {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+table, tr, td {
+    border: 1px solid;
+}
+
+td {
+    padding: 0.5rem 2rem;
+}
